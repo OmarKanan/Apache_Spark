@@ -12,12 +12,12 @@ $ ~/Applications/spark-2.0.0-bin-hadoop2.6/bin/spark-submit
 ~~~
 ~/Applications/spark-2.0.0-bin-hadoop2.6/bin/spark-submit
 ~~~
-est à remplacer par le path de votre commande spark-submit
+  est à remplacer par le path de votre commande spark-submit.
 ~~~
 spark://omar-Ubuntu:7077
 ~~~
-est à remplacer par l'adresse de votre serveur spark  
+  est à remplacer par l'adresse de votre serveur spark.
 ~~~
 ~/Documents/Telecom_ParisTech/Eclipse/workspace/Scala/tp_spark/target/scala-2.11/tp_spark-assembly-1.0.jar
 ~~~
-est à remplacer par le path du fichier jar créé lorsque vous avez compilé le programme avec la commande "sbt assembly"  
+  est à remplacer par le path du fichier jar créé lorsque vous avez compilé le programme avec la commande "sbt assembly".
